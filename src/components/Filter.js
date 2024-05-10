@@ -1,5 +1,7 @@
 import React from "react";
 
+//fetch
+
 function Filter({ category, onCategoryChange }) {
   return (
     <div className="Filter">
